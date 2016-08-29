@@ -305,4 +305,4 @@
 # print "the city for the state 'TX' is %s" %city
 
 
-#ex40
+#ex40 Write out definitions/ideas by hand
