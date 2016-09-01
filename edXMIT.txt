@@ -1,0 +1,14 @@
+edX MIT Intro to CS: Python
+
+Week1
+An algorithm is a conceptual idea, a program is a concrete instantiation of an algorithm.
+
+2 things every computer can do are: perform calculations, remember the results
+
+A program counter points the computer to the next instruction to execute in the program
+
+The computer walks through the sequence executing some computation = "The computer executes the instructions mostly in a linear sequence, except sometimes it jumps to a different place in the sequence. "
+
+Syntax determines whether a string is legal
+Static semantics determines whether a string has meaning
+Semantics assigns a meaning to a legal sentence
